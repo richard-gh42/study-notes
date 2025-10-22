@@ -1,0 +1,1 @@
+Die Einführung von Generativen KI-Modellen, führe zu einem Rückgang von Ausschreibungen für Einsteigerpositionen. Dies läge daran, dass die Aufgaben, die üblicherweise von Einsteigern übernommen werden, von der KI automatisiert werden. 

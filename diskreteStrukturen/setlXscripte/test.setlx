@@ -1,0 +1,14 @@
+z1 := {1,2,3,4};
+z2 := [2,3,1,4];
+
+a := {n:n in z1 | n**2<5};
+b := {n:n in z2 | n**2<5};
+c := [n:n in z1 | n**2<5];
+d := [n:n in z2 | n**2<5];
+
+print(a==b);
+print(a==c);
+print(a==d);
+print(b==c);
+print(b==d);
+print(c==d);
