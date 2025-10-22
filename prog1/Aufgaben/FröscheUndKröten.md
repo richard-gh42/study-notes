@@ -1,6 +1,3 @@
-Siehe [[../geogebra/Frösche.ggb|Frösche]]
-Sowie "../programme/amphibianSort/"
-
 ## Das Problem
 ### Schritte
 Legende: 
