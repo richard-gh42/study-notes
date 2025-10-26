@@ -11,8 +11,10 @@ Einschränkungen:
 * keine reservierten Schlüsselwörter wie "class"
 
 Konventionen:
-* camelCase für Variablen
-* Konstanten in Capslock
+* camelCase für Variablen und Methoden
 * PascalCase für Klassen
+* Konstanten in Capslock
 * Auf ASCII beschränken
 
+## Globale Variablen
+Globale Variablen sollten nach Möglichkeit immer private sein.
